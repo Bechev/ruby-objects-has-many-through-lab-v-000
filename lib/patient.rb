@@ -9,5 +9,5 @@ class Patient
     appointment.patient = self
     @appointments << appointment
   end
-  
+
 end
