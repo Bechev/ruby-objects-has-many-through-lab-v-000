@@ -7,7 +7,7 @@ class Appointment
   end
 
   def patient
-    #@patient =
+    @patient
   end
 
 end
