@@ -10,8 +10,4 @@ class Appointment
     @patient = self
   end
 
-  def doctor
-    @doctor = doctor
-  end
-
 end
