@@ -6,8 +6,8 @@ class Appointment
     @doctor = doctor
   end
 
-  def patient(name)
-    @patient = name
+  def patient(patient)
+    @patient = patient
   end
 
 end
